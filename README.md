@@ -2,6 +2,7 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=huner2&show_icons=true&locale=en" alt="huner2" /></p>
 <!--
 **huner2/huner2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
